@@ -4,3 +4,7 @@
 [submodule "ddcontrol/vrft"]
 	path = ddcontrol/vrft
 	url = https://github.com/rssalessio/PythonVRFT
+[submodule "ddcontrol/PythonVRFT"]
+	path = ddcontrol/PythonVRFT
+	url = https://github.com/rssalessio/PythonVRFT
+	branch = ddcontrol
